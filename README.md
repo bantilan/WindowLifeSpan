@@ -1,6 +1,6 @@
-# WindowTimeTracker
+# WindowLifeSpan
 
-WindowTimeTracker is a Python-based program that monitors Windows applications, tracking the number of seconds they are open, and calculating the total time upon closure. This tool provides valuable insights into application usage and can be utilized for system analysis, productivity tracking, or other use cases.
+WindowLifeSpan is a Python-based program that monitors Windows applications, tracking the number of seconds they are open, and calculating the total time upon closure. This tool provides valuable insights into application usage and can be utilized for system analysis, productivity tracking, or other use cases.
 
 ## Features
 
