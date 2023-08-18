@@ -51,7 +51,7 @@ Install pyinstaller first
 Create the executable
 
        cd WindowLifeSpan
-       pyinstaller WindowLifeSpan.py
+       pyinstaller WindowLifeSpan.spec
 
 ## Contact
 
