@@ -1,7 +1,7 @@
 VSVersionInfo(
     ffi=FixedFileInfo(
-    filevers=(1, 0, 0, 0),   # File version
-    prodvers=(1, 0, 0, 0),   # Product version
+    filevers=(1, 0, 0, 1),   # File version
+    prodvers=(1, 0, 0, 1),   # Product version
     ),
     kids=[
         StringFileInfo(
@@ -9,7 +9,7 @@ VSVersionInfo(
                 StringTable(
                     u'040904b0',
                     [StringStruct(u'ProductName', u'Window Life Span'),
-                    StringStruct(u'FileVersion', u'1.0.0.0'),
+                    StringStruct(u'FileVersion', u'1.0.0.1'),
                     # Add other metadata here
                     ])
             ]),
