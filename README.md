@@ -13,6 +13,10 @@ WindowLifeSpan is a Python-based program that monitors Windows applications, tra
 - **Benchmarking**: You can use this tool to benchmark SSD, RAM Memory, CPU like tracking the duration of copy and paste task which gives you exact seconds of the operation.
 - **Simple Tracking**: Track the apps you opened and the duration of your usage.
 
+## Screenshots
+
+![sample-screenshot](https://github.com/bantilan/WindowLifeSpan/assets/1697297/d465dc5e-25ff-4e97-94bb-2b265ee6d42f)
+
 ## Installation
 
 ### Requirements
