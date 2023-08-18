@@ -1,0 +1,18 @@
+VSVersionInfo(
+    ffi=FixedFileInfo(
+    filevers=(1, 0, 0, 0),   # File version
+    prodvers=(1, 0, 0, 0),   # Product version
+    ),
+    kids=[
+        StringFileInfo(
+            [
+                StringTable(
+                    u'040904b0',
+                    [StringStruct(u'ProductName', u'Window Life Span'),
+                    StringStruct(u'FileVersion', u'1.0.0.0'),
+                    # Add other metadata here
+                    ])
+            ]),
+        VarFileInfo([VarStruct(u'Translation', [1033, 1200])])
+    ]
+)
