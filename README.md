@@ -19,28 +19,35 @@ WindowTimeTracker is a Python-based program that monitors Windows applications, 
 
 1. Clone the repository:
 
-       bash
-       git clone https://github.com/bantilan/WindowTimeTracker.git
+       git clone https://github.com/bantilan/WindowLifeSpan.git
 
 
 2. Navigate to the directory:
 
-       bash
-       cd WindowTimeTracker
+       cd WindowLifeSpan
 
 3. Install the required libraries:
 
-       bash
        pip install -r requirements.txt
 
 ## Usage
 
 Run the script using the following command:
 
-       bash
        python your_script.py
 
 The program will start monitoring all open windows and print the duration they were open once closed.
+
+## Create Windows Executable Files
+
+Install pyinstaller first
+
+       pip install -r pyinstaller
+
+Create the executable
+
+       cd WindowLifeSpan
+       pyinstaller WindowLifeSpan.py
 
 ## Contact
 
