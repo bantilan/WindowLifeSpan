@@ -8,6 +8,10 @@ WindowLifeSpan is a Python-based program that monitors Windows applications, tra
 - **Time Calculation**: Records the exact time each window was open and calculates the total duration upon closure.
 - **Excludes Blank Titles**: Omits windows with blank titles to ensure relevant tracking.
 
+## Use Cases
+
+- **Benchmarking**: You can use this tool to benchmark SSD, RAM Memory, CPU like tracking the duration of copy and paste task which gives you exact seconds of the operation.
+
 ## Installation
 
 ### Requirements
