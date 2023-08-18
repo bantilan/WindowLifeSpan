@@ -23,7 +23,7 @@ try:
             if handle not in current_handles:
                 end_time = time.time()
                 window_data[handle]['total_time'] += end_time - window_data[handle]['start_time']
-                print(f"{window_data[handle]['title']} program was opened for {window_data[handle]['total_time']} seconds.")
+                print(f"[{window_data[handle]['title']} window] was opened for {window_data[handle]['total_time']} seconds.")
                 del window_data[handle]
 
         time.sleep(1)
