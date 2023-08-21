@@ -51,7 +51,7 @@ The program will start monitoring all open windows and print the duration they w
 
 Install pyinstaller first
 
-       pip install -r pyinstaller
+       pip install pyinstaller
 
 Create the executable
 
